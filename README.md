@@ -1,2 +1,1 @@
-# ClasesJavascript
-Temas nuevos en Javascript
+# IntroduccionJavascript
